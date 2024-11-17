@@ -19,3 +19,6 @@
 [submodule "Lab7"]
 	path = Lab7
 	url = https://github.com/PhuongUyennn/Lab7DNT.git
+[submodule "Lab8"]
+	path = Lab8
+	url = https://github.com/PhuongUyennn/Lab8.git
