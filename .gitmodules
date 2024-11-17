@@ -13,3 +13,6 @@
 [submodule "Lab5"]
 	path = Lab5
 	url = https://github.com/PhuongUyennn/Lab5.git
+[submodule "Lab6"]
+	path = Lab6
+	url = https://github.com/PhuongUyennn/Lab6.git
